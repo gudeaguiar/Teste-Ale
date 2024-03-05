@@ -1,0 +1,13 @@
+A Microsoft anunciou nesta terça-feira (5) que vai descontinuar a plataforma que permitia o uso de aplicativos para Android no Windows 11. O serviço era oferecido em parceria com a Amazon Appstore.
+
+A partir de amanhã (06), já não será mais possível pesquisar pela Amazon Appstore ou instalar novos aplicativos do Android que fazem parte do programa.
+
+Apenas quem já baixou os softwares ao menos uma vez no dispositivo poderá fazer o download novamente e seguir com os apps no sistema operacional.
+
+Android teve vida curta no Windows 11
+A confirmação de que o Windows 11 ganharia suporte a aplicativos do Android veio em junho de 2021. Logo no anúncio, a Microsoft confirmou que o processo seria possível graças a uma parceria com a loja de apps da Amazon.
+
+Porém, os primeiros aplicativos Android só chegaram ao público em fevereiro de 2022, oito meses depois. O serviço recebeu algumas críticas no início do funcionamento, em especial pela biblioteca considerada limitada em termos de apps.
+
+Atualmente, a Google Play Games é a oferta mais popular (e oficial da Google) para rodar jogos do Android no PC. O serviço funciona inclusive no Brasil.
+Texto de teste.
