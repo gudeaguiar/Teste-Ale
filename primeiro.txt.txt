@@ -10,4 +10,4 @@ A confirmação de que o Windows 11 ganharia suporte a aplicativos do Android ve
 Porém, os primeiros aplicativos Android só chegaram ao público em fevereiro de 2022, oito meses depois. O serviço recebeu algumas críticas no início do funcionamento, em especial pela biblioteca considerada limitada em termos de apps.
 
 Atualmente, a Google Play Games é a oferta mais popular (e oficial da Google) para rodar jogos do Android no PC. O serviço funciona inclusive no Brasil.
-Texto de teste.
+Texto de teste 2
